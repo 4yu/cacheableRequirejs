@@ -1,4 +1,4 @@
-# cachedRequirejs
+# cacheableRequirejs
 一个脚本模块化方案，如下内容：
 
 自动版本管理（自动生成MD5版本号）
