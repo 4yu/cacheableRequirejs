@@ -1,0 +1,9 @@
+
+js/common/bizcomm.js
+----------------
+js/common/component/comp1.js
+
+js/common/libs/core.js
+----------------
+js/common/libs/core/core1.js
+js/common/libs/core/core2.js
